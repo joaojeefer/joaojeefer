@@ -2,8 +2,6 @@
 
 - 👋 I’m João Jeefer. I am living in Brazil.
 - 🎓 I graduated in Systems Analysis and Development in 2018.
-- 👀 I’m interested in React and React Native projects.
-- 🌱 I’m currently learning Angular.
 
 <div>
  <a href="https://github.com/joaojeefer">
